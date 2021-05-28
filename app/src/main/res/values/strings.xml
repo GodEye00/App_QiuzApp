@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GeoQiuz1</string>
+    <string name="question_australia">Camberra is the Capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Indian Ocean.</string>
+    <string name="question_usa">The United States of America is located in Europe.</string>
+    <string name="question_africa">Africa is the second largest continent.</string>
+    <string name="question_southafrica">South Africa is a continent on planet Earth.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_egypt">The Source of the Nile Sea is in Egypt.</string>
+    <string name="question_everest">Mount everest is the fastest growing mountain on Earth.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_korea">Korea was the largest county in Asia before separation.</string>
+    <string name="question_russia">Russia is the largest country in Asia.</string>
+    <string name="question_australia2">Australia is a continent and a country.</string>
+    <string name="question_mideast2">Saudi Arabia is the only largest city without a river.</string>
+    <string name="question_india">India has the largest population in the whole of Asia.</string>
+    <string name="question_africa2">Africa has more mountains than Asia.</string>
+    <string name="question_africa3">the Sahara desert is the largest desert in the world.</string>
+    <string name="question_mideast3">The Dead sea is currently the lowest land on Earth.</string>
+    <string name="question_brazil">Brazil is the largest county in North America.</string>
+    <string name="question_asia2">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="question_japan">Japan is the only single island and country on Earth.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">But Bear in Mind that Cheating is Wrong.</string>
+    <string name="correct_cheater">Correct! But You are a Cheater!</string>
+    <string name="wrong_cheater">WRONG!! You cheated Yet You scored Wrong!</string>
+
+
+</resources>
